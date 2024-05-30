@@ -7,8 +7,8 @@ TERM = "xterm-256color"
 padding.x = 5
 padding.y = 5
 
-dimensions.columns = 170
-dimensions.lines = 49
+dimensions.columns = 179
+dimensions.lines = 50
 decorations = "Buttonless"
 
 opacity = 0.8
@@ -20,3 +20,4 @@ option_as_alt = "Both"
 normal.family = "MesloLGS Nerd Font Mono"
 
 size = 14.5
+
